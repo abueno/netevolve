@@ -1,0 +1,108 @@
+@CHARSET "UTF-8";
+/*
+** PALLETE:
+**
+** Orange: #ff9100;
+**
+*/
+* {
+	margin: 0;
+	padding: 0;
+	cell-spacing: 0;
+}
+ul {
+	margin-left: 20px;
+}
+body {
+	color: #444;
+	background: #f0f0f0;
+}
+button {
+	font-size: 1.2em;
+	padding: 7px 12px;
+	
+	background: #ffa83f; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffa83f 0%, #ff9100 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffa83f), color-stop(100%,#ff9100)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffa83f 0%,#ff9100 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffa83f 0%,#ff9100 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffa83f 0%,#ff9100 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ffa83f 0%,#ff9100 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa83f', endColorstr='#ff9100',GradientType=0 ); /* IE6-9 */
+	
+	-webkit-border-radius: 4px;
+    border-radius: 4px;
+    border: none;
+    color: #fff;
+    text-shadow: 0px 1px 1px #646464;
+	filter: dropshadow(color=#646464, offx=0, offy=1);
+	cursor: pointer;
+}
+button:hover {
+	background: #ff9c2b; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ff9c2b 0%, #ff6e00 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9c2b), color-stop(100%,#ff6e00)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ff9c2b 0%,#ff6e00 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ff9c2b 0%,#ff6e00 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ff9c2b 0%,#ff6e00 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ff9c2b 0%,#ff6e00 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff9c2b', endColorstr='#ff6e00',GradientType=0 ); /* IE6-9 */
+}
+button.big {
+	font-size: 3em;
+	padding: 10px 20px;
+}
+#top {
+	background: #ff9100;
+	height: 80px;
+}
+#top #logo {
+	width: 200px;
+	margin: 0 auto;
+	font-size: 2em;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+}
+#top #description {
+	color: #f0f0f0;
+	width: 200px;
+	margin: 0 auto;
+	text-align: center;
+}
+#middle {
+	width: 1000px;
+	margin: 50px auto;
+}
+.content {
+	background: #fff;
+	padding: 20px;	
+}
+#bottom {
+	backgrond: #888;
+	height: 150px;
+	margin-top: 200px;
+}
+#graphSettings {
+	margin: 30px 0;
+}
+#nodes .node {
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	margin: 0 10px 10px 0;
+	background: #f0f0f0;
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+#nodes .node h1 {
+	margin: -10px -10px 10px -10px;
+	background: #ff9100;
+	color: white;
+	padding: 10px;
+	font-size: 1.2em;
+}
+#fileJson {
+	width: 800px;
+	height: 400px;
+}

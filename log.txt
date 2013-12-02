@@ -1,0 +1,75 @@
+== Degree of 0 = 1
+== Degree of 1 = 1
+== Degree of 0 = 1
+== Degree of 1 = 1
+Incrementing Degree of 2
+== Degree of 0 = 1
+== Degree of 1 = 1
+== Degree of 0 = 1
+== Degree of 1 = 1
+Incrementing Degree of 2
+Incrementing Degree of 3
+Incrementing Degree of 4
+Incrementing Degree of 5
+Incrementing Degree of 6
+Incrementing Degree of 8
+Incrementing Degree of 10
+Incrementing Degree of 12
+Incrementing Degree of 13
+Incrementing Degree of 14
+Incrementing Degree of 15
+Incrementing Degree of 16
+Incrementing Degree of 17
+Incrementing Degree of 18
+Incrementing Degree of 19
+Incrementing Degree of 3
+Degree Sum =  3
+Incrementing Degree of 4
+Degree Sum =  4
+Incrementing Degree of 5
+Degree Sum =  5
+Incrementing Degree of 6
+Degree Sum =  6
+Incrementing Degree of 9
+Degree Sum =  7
+Incrementing Degree of 11
+Degree Sum =  8
+Incrementing Degree of 12
+Degree Sum =  9
+Incrementing Degree of 13
+Degree Sum =  10
+Incrementing Degree of 14
+Degree Sum =  11
+Incrementing Degree of 16
+Degree Sum =  13
+Incrementing Degree of 17
+Degree Sum =  15
+Incrementing Degree of 18
+Degree Sum =  17
+Incrementing Degree of 19
+Degree Sum =  19
+Incrementing Degree of 20
+Degree Sum =  21
+Incrementing Degree of 21
+Degree Sum =  23
+Incrementing Degree of 22
+Degree Sum =  25
+Incrementing Degree of 23
+Degree Sum =  27
+Incrementing Degree of 24
+Degree Sum =  29
+Incrementing Degree of 25
+Degree Sum =  31
+Incrementing Degree of 26
+Degree Sum =  33
+Incrementing Degree of 27
+Degree Sum =  35
+Incrementing Degree of 28
+Degree Sum =  37
+Incrementing Degree of 29
+Degree Sum =  39
+Incrementing Degree of 30
+Degree Sum =  41
+Incrementing Degree of 31
+Degree Sum =  43
+[0] = [1] = [0] = 1[1] = 1[0] = 1\n[1] = 1\nSUM = 2Ended PreProcess
